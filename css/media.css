@@ -1,0 +1,123 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	.custom_brand {
+		width: 60%;
+		margin-top: -50px;
+		margin-left: -50px;
+	}
+	.for-space {
+		margin-top: -50px;
+	}
+	.custom_nav li a {
+		text-align: right;
+		margin: 0;
+	}
+	.custom-navbar-toggler {
+		margin: 16px 0 0 50px;
+	}
+	.banner_content h1 {
+		font-size: 25px;
+		padding: 140px 0 40px 0;
+	}
+	.common-title h1 {
+		font-size: 20px;
+	}
+	.common-title p {
+		font-size: 14px;
+	}
+	.content-section {
+		padding: 40px 0;
+	}
+	.common-title {
+		padding-bottom: 20px;
+	}
+	.content-image {
+		margin: 10px 0;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.custom_brand {
+		width: 90%;
+		margin-top: -50px;
+		margin-left: -50px;
+	}
+	.for-space {
+		margin-top: -50px;
+	}
+	.custom_nav li a {
+		text-align: right;
+		margin: 0;
+	}
+	.custom-navbar-toggler {
+		margin: 16px 0 0 270px;
+		float: right;
+		text-align: right;
+	}
+	.banner_content h1 {
+		font-size: 25px;
+		padding: 140px 0 40px 0;
+	}
+	.common-title h1 {
+		font-size: 20px;
+	}
+	.common-title p {
+		font-size: 14px;
+	}
+	.content-section {
+		padding: 40px 0;
+	}
+	.common-title {
+		padding-bottom: 20px;
+	}
+	.content-image {
+		margin: 10px 0;
+	}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.custom_brand {
+		margin-top: -40px;
+	}
+	.custom_nav li a {
+		font-size: 15px;
+		margin: 0px 10px;
+		margin-top: -35px;
+	}
+	.banner_content h1 {
+		font-size: 50px;
+		padding: 200px 0;
+	}
+	.common-title h1 {
+		font-size: 35px;
+	}
+	.common-title p {
+		font-size: 18px;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1366.98px) {
+
+}
+
+/* Extra large devices (large desktops, 1367px and up) */
+@media (min-width: 1367px) and (max-width: 1920.98px) {
+
+}
+/* Extra large devices (large desktops, 1921px and up) */
+@media (min-width: 1921px) and (max-width: 2560.98px) {
+	.banner_content h1 {
+		font-size: 120px;
+		padding: 200px 0;
+	}
+}
+/* Extra large devices (large desktops, 2561px and up) */
+@media (min-width: 2561px) and (max-width: 3840.98px) {
+	.banner_content h1 {
+		font-size: 120px;
+		padding: 200px 0;
+	}
+
+}
